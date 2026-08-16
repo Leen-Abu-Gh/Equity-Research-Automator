@@ -9,7 +9,7 @@ investor presentation (as PDFs) and get back:
 - Revenue / FCFF charts
 - A downloadable, formatted Excel model with native charts
 
-Built as a faster first draft for equity research — not a replacement for
+Built as a faster first draft for equity research, not a replacement for
 checking the underlying filings.
 
 ## How it works
